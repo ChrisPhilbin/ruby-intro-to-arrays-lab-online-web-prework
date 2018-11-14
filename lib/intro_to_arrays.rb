@@ -23,4 +23,11 @@ end
 def first_element_with_array_methods(i)
   i.first
 end
-  
+
+def last_element_with_array_methods(i)
+  i.last
+end
+
+def length_of_array(i)
+  i.length
+end
