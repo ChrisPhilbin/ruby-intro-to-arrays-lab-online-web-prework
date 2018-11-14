@@ -11,4 +11,7 @@ end
 def first_element(i)
   i[0]
 end
-  
+
+def third_element(i)
+  i[2]
+end
