@@ -19,4 +19,3 @@ end
 def last_element(i)
   i[-1]
 end
-  
